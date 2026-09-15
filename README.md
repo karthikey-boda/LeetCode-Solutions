@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/karthikey-boda/LeetCode-Solutions/tree/master/0001-two-sum) |
+| [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/karthikey-boda/LeetCode-Solutions/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0410-split-array-largest-sum](https://github.com/karthikey-boda/LeetCode-Solutions/tree/master/0410-split-array-largest-sum) |
 | [0496-next-greater-element-i](https://github.com/karthikey-boda/LeetCode-Solutions/tree/master/0496-next-greater-element-i) |
 | [0739-daily-temperatures](https://github.com/karthikey-boda/LeetCode-Solutions/tree/master/0739-daily-temperatures) |
@@ -19,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/karthikey-boda/LeetCode-Solutions/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0410-split-array-largest-sum](https://github.com/karthikey-boda/LeetCode-Solutions/tree/master/0410-split-array-largest-sum) |
 | [1004-max-consecutive-ones-iii](https://github.com/karthikey-boda/LeetCode-Solutions/tree/master/1004-max-consecutive-ones-iii) |
 ## Dynamic Programming
