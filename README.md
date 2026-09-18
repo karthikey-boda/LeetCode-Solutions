@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/karthikey-boda/LeetCode-Solutions/tree/master/0001-two-sum) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/karthikey-boda/LeetCode-Solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/karthikey-boda/LeetCode-Solutions/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0410-split-array-largest-sum](https://github.com/karthikey-boda/LeetCode-Solutions/tree/master/0410-split-array-largest-sum) |
 | [0496-next-greater-element-i](https://github.com/karthikey-boda/LeetCode-Solutions/tree/master/0496-next-greater-element-i) |
@@ -27,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/karthikey-boda/LeetCode-Solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/karthikey-boda/LeetCode-Solutions/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0410-split-array-largest-sum](https://github.com/karthikey-boda/LeetCode-Solutions/tree/master/0410-split-array-largest-sum) |
 ## Greedy
