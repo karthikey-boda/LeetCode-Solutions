@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/karthikey-boda/LeetCode-Solutions/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/karthikey-boda/LeetCode-Solutions/tree/master/0011-container-with-most-water) |
+| [0015-3sum](https://github.com/karthikey-boda/LeetCode-Solutions/tree/master/0015-3sum) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/karthikey-boda/LeetCode-Solutions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/karthikey-boda/LeetCode-Solutions/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/karthikey-boda/LeetCode-Solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -195,6 +196,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0015-3sum](https://github.com/karthikey-boda/LeetCode-Solutions/tree/master/0015-3sum) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/karthikey-boda/LeetCode-Solutions/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 ## Binary Lifting
 |  |
@@ -218,6 +220,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/karthikey-boda/LeetCode-Solutions/tree/master/0011-container-with-most-water) |
+| [0015-3sum](https://github.com/karthikey-boda/LeetCode-Solutions/tree/master/0015-3sum) |
 ## Linked List
 |  |
 | ------- |
